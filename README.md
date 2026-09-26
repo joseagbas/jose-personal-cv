@@ -1,5 +1,4 @@
-# jose-personal-cv
-# Personal CV
+
 
 ## Student Information
 
